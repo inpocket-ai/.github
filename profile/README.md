@@ -25,7 +25,7 @@ We believe in the power of collaboration. Here’s how you can contribute:
 Our team loves to start the day with a strong Turkish coffee or a nutritious breakfast smoothie – fueling innovation one sip (or sip and bite) at a time!
 
 ### 🧙 Remember
-You can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and the right AI tools!
+You can do mighty things with the power of [Friendship](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfFriendship) and the right AI tools!
 
 ### 🚀 Connect With Us
 - **Website:** [inpocket.ai](http://www.inpocket.ai)
